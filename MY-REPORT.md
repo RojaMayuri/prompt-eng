@@ -6,7 +6,7 @@ This research explores techniques to enhance prompt engineering and response gen
 
 
 
-* Authors: [RojaMayuri](Rpottepalli2024@fau.edu)
+* Author: [RojaMayuri](Rpottepalli2024@fau.edu)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
