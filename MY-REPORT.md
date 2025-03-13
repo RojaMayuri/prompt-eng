@@ -1,7 +1,6 @@
 ![GenI-Banner](https://github.com/genilab-fau/genial-fau.github.io/blob/8f1a2d3523f879e1082918c7bba19553cb6e7212/images/geni-lab-banner.png?raw=true)
 
-# Simulated GenAI Pipeline for Prompt Engineering in Generative AI Models  or GenAI Experimentation Pipeline 
-
+# Simulated GenAI Pipeline for Prompt Engineering in Generative AI Models  
 This research explores techniques to enhance prompt engineering and response generation in large language models (LLMs), specifically focusing on the creation, testing, and refinement of prompts in a simulated environment.
 
 
